@@ -1,6 +1,7 @@
 # WiDS Project 2024-25: Enabling Gesture Control using Computer Vision
-This is my report on the project that I took up under the "Winter in Data Science" program conducted by the Analytics Club, IIT Bombay.
-Duration: 10th December '24 - 25th January '25
+This is my report on the project that I took up under the "Winter in Data Science" program conducted by the Analytics Club, IIT Bombay.  
+Duration: 10th December '24 - 25th January '25  
+Link to project report: [WiDS Project Report](https://1drv.ms/b/c/0eae334f927a8cd3/ESDAduJdmXVHn03TX5V0m-sBsYBtvV85HWzi14vjV-4vcg?e=g3Jme7)
 
 ## Introduction
 In this winter project, I have used the 'Hands' module of the library- Mediapipe to create cool projects enabling system control using hand gestures. These include volume control and mouse control using hands movements that would be captured using live video input stream.   
